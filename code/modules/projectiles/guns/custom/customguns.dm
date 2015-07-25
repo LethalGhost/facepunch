@@ -12,7 +12,7 @@
 	var/charge_cost = 100 //How much energy is needed to fire.
 	var/cell_type = "/obj/item/weapon/cell"
 	var/projectile_type = "/obj/item/projectile/energy"
-	var/modifystateff
+	var/modifystate
 	locked = 0
 	var/burst = 0
 	var/open = 0
